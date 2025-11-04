@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20251104</CreaDate><CreaTime>08363600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\users\dolan\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\Times" Date="20251104" Time="083636">Times erasepoly samplefill.tif C:\temp\Elevation_Data\samplevoids.tif</Process></lineage></DataProperties></Esri></metadata>
